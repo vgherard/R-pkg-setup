@@ -1,7 +1,8 @@
 #------------------------------------------------------ Preliminary Manual steps
 
 # Check package name availability with e.g. {available}
-# Create new RStudio project of type package
+# Create new package
+# If on RStudio, configure Build tools
 
 
 
