@@ -50,7 +50,7 @@ usethis::use_github()
 
 #------------------------------------------ Set up R-CMD-Check and coverage GHAs
 
-usethis::use_github_action_check_full()
+usethis::use_github_action("check-standard")
 usethis::use_coverage()
 usethis::use_github_action("test-coverage")
 
